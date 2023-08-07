@@ -1,0 +1,28 @@
+
+input {
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: azure;
+}
+input:focus{
+    border: none;
+}
+
+#generate{
+
+    margin: 10px;
+    border-radius: 10px;
+
+    border: none;
+
+    background-color: beige;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
